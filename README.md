@@ -67,6 +67,11 @@
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=V2B5&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&border_radius=10" alt="Contribution Graph"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=V2B5&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+</div>
+
 <!--
 ---
 ## 🌐 Connect With Me
@@ -78,8 +83,6 @@
 
 ---
 -->
-<img src="https://komarev.com/ghpvc/?username=V2B5&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-
 ### *"Building the future, one commit at a time"* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
